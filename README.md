@@ -1,4 +1,4 @@
-# 🛒 React + TypeScript Shopping Cart (Lesson 17)
+# 🛒 React + TypeScript Shopping Cart
 
 A simple shopping cart application built with **React**, **TypeScript**, and **Vite**.  
 This project demonstrates the use of **React Context**, **custom hooks**, and **useReducer** to manage global state for a shopping cart.
